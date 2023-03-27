@@ -5,7 +5,7 @@
  *@s: string whose length to be printed
  Return: length of the string
  */
-int _strlen(char *s);
+int _strlen(char *s)
 {
 	int longi = 0;
 
